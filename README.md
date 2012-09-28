@@ -1,4 +1,4 @@
 alfred-extensions
 =================
 
-Alfred Extensions
+Scripts and Extensions for Alfred http://www.alfredapp.com/
